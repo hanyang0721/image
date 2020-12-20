@@ -1,3 +1,3 @@
 # image
 
-雜物repo
+放置雜物的repo
